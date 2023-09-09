@@ -22,3 +22,5 @@ hide the IP address of server/application. NAT Gateway helps to hide the private
 handle situation. ASG would check and provide additional servers to handle the heavy traffic and would not allow appication to fail.
 # Bastion Host: 
 A bastion host is a server used to manage access to an internal or private network from an external network - sometimes called a jump box or jump server.
+
+![image](https://github.com/namma14/VPC-Setup-EC2Instances/assets/62510521/84f4f476-3037-4cf8-8cc4-6005f3b9ed5f)
